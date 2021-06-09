@@ -1,1 +1,3 @@
 Chama Edward is my name.
+I am doing Git.
+
